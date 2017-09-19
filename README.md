@@ -1,7 +1,9 @@
 # Tree-API
 
 Compatible LabVIEW Versions: >= 2016.
+
 Compatible OS Versions: ALL.
+
 Description:
 
 This is a tree data structure. Essentially dictionary on steroids. Has a bunch of cool features:
