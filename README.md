@@ -31,3 +31,14 @@ Requested contributions:
 - Feature requests.
 
 ![Alt text](/Images/Example0.png?raw=true "Multiple Roots Visualization")
+![Alt text](/Images/Example1.png?raw=true "Tree Interaction")
+![Alt text](/Images/Example2.png?raw=true "Tree Data Types and XML Example")
+![Alt text](/Images/VI0.png?raw=true "Tree Data Types and XML Example Results")
+![Alt text](/Images/Example3.png?raw=true "Shallow Copy and Deep Copy")
+![Alt text](/Images/Example4.png?raw=true "Custom Types in Meta Data")
+![Alt text](/Images/Menu0.png?raw=true "Tree API")
+![Alt text](/Images/Menu1.png?raw=true "Examples palette")
+![Alt text](/Images/Menu2.png?raw=true "Tree Data palette")
+![Alt text](/Images/Menu4.png?raw=true "Advanced palette")
+
+
