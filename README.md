@@ -4,6 +4,10 @@ Compatible LabVIEW Versions: >= 2016.
 
 Compatible OS Versions: ALL.
 
+Installation:
+
+Instal the package from the Packages folder using VI Package Manager. This installs the palette. This requires VI Package Manager version 2017 which you can get from JKI webpage. LabVIEW 2017 is NOT required.
+
 Description:
 
 This is a tree data structure. Essentially dictionary on steroids. Has a bunch of cool features:
